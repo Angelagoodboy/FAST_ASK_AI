@@ -1,2 +1,6 @@
-# 本工程实现了快速问AI 一个命令行程序
+# 基于 DeepSeek 进行快问快答的 AI 命令行
+
+使用前需要获得DeepSeek API_Key
+输入以下命令
+export DEEPSEEK_API_KEY="你的APIkey"
 
